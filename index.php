@@ -66,7 +66,7 @@ a:hover {
                         <div class="col-lg-4">
 
                                 <div class="card text-white bg-success mb-3" style="max-width: 20rem;">
-                                    <a href="mor.php"><div class="card-header"> فرم مرخصی</div>
+                                    <a href="mor.maus.ir"><div class="card-header"> فرم مرخصی</div>
                                     <div class="card-body">
                                         <h4 class="card-title">تولید آسان برگه مرخصی </h4>
    <p class="card-text">به آسانی در کسری از ثانیه فرم مرخصی را ایجاد نمایید.</p>
