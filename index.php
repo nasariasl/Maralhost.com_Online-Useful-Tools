@@ -69,12 +69,24 @@ a:hover {
                                     <a href="https://mor.maus.ir"><div class="card-header"> فرم مرخصی</div>
                                     <div class="card-body">
                                         <h4 class="card-title">تولید آسان برگه مرخصی </h4>
-   <p class="card-text">به آسانی در کسری از ثانیه فرم مرخصی را ایجاد نمایید.</p>
+										<p class="card-text">به آسانی در کسری از ثانیه فرم مرخصی را ایجاد نمایید.</p>
                                     </div></a>
                                 </div>
 
                         </div>
                         
+                        <div class="col-lg-4">
+
+                                <div class="card text-white bg-success mb-3" style="max-width: 20rem;">
+                                    <a href="https://maral.maus.ir/dl.php"><div class="card-header"> امن سازی لینک دانلود</div>
+                                    <div class="card-body">
+                                        <h4 class="card-title">امن سازی لینک دانلود </h4>
+										<p class="card-text">لینک دانلودت رو امن کن</p>
+                                    </div></a>
+                                </div>
+
+                        </div>
+						
                     </div>
                 </div>
             <!-- Dialogs
