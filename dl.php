@@ -14,9 +14,7 @@ if (!file_exists(ABSPATH.'dl-cache')) {
 
 $url = $_POST['text'];
 $url_md5 = md5($url);
-
-preg_match_all('/(#)([a-z0-9_-]{6})/', $input_lines, $output_array);
-
+print_r($_POST);
 
 ?>
 <!DOCTYPE html>
