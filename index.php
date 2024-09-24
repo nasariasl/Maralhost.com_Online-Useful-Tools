@@ -77,7 +77,7 @@ a:hover {
                         
                         <div class="col-lg-4">
 
-                                <div class="card text-white bg-success mb-3" style="max-width: 20rem;">
+                                <div class="card text-white bg-light mb-3" style="max-width: 20rem;">
                                     <a href="https://maral.maus.ir/dl.php"><div class="card-header"> امن سازی لینک دانلود</div>
                                     <div class="card-body">
                                         <h4 class="card-title">امن سازی لینک دانلود </h4>
