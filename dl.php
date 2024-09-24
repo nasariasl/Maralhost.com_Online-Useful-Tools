@@ -64,7 +64,7 @@ if (!empty($_POST['text'])) {
 <div class="alert alert-success" style=" text-align: left !important;">
 <?php
 
-if !empty($_POST['text']) {	
+if (!empty($_POST['text'])) {	
 
 	echo 'https://tmplink.maralhost.net/hash/'.$url_md5;
 }
