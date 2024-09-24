@@ -16,7 +16,7 @@ $url = $_POST['text'];
 $url_md5 = md5($url);
 $url_hash_dir= ABSPATH.'dl-cache/'.$url_md5.'.txt';
 
-if !empty($_POST['text']) {	
+if (!empty($_POST['text'])) {	
 
 	if (!file_exists($url_hash_dir)) {
 		file_put_contents($url_hash_dir, $_POST['text']);
