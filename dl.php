@@ -62,8 +62,9 @@ if (!empty($_POST['text'])) {
           
 <?php if(isset($_POST['text']) && !empty($_POST['text'])) { ?>	  
 <div class="alert alert-success" style=" text-align: left !important;">
-<?php
+لینک امن شده شما آماده است :
 
+<?php
 if (!empty($_POST['text'])) {	
 
 	echo 'https://tmplink.maralhost.net/hash/'.$url_md5;
